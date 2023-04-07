@@ -24,14 +24,13 @@ youtube_username: https://www.youtube.com/channel/UCU-0B_TalYDQ7asz1BeVMpg
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+about_content: | 
+여행이 좋았기에 다닌 관광경영학과를 졸업 후 전공을 살려 취업한 여행사에서 5년을 근무하던 저에게는 내가 지금하고 있는 일을 10년 뒤에도, 20년 뒤에도 할 수 있을까 하는 고민이 늘 꼬리표처럼 저를 따라다녔었습니다. 그러던 저에게 찾아온 코로나라는 예상하지 못한 일을 마주하게 되자 그동안 고민만 하던 기술이 배우고 싶다. 나이가 들어서도 사용할 수 있는 그런 기술에 대한 갈망이 있던 저에게는 그동안 쌓아오던 커리어를 정리하고 국비지원으로 코딩교육을 해주는 교육기관으로 찾아가지 않을 수가 없었습니다. 그렇게 등록한 교육기관에서 6개월이라는 시간을 보내면서 느낀 점과 달라진 점이 있다면
+첫째, 일상생활에서 인터넷을 사용할 때 실행되는 화면을 보고 어떤 방식으로 구현되었을지 궁금증을 가지게 되었다는 것입니다. 로그인이나 회원가입 같은 코드를 짤 수 있을 때부터 평소에 이용하던 사이트들이 이러한 방식으로 구현되었다는 점들이 신기하면서도 흥미를 가지게 했습니다. 
+둘째, 프로그래밍 언어 또한 흐름을 가지고 있다는 점을 알게 되었다는 것입니다. 처음에는 전공과 다른 분야를 배우는 것이라 메소드와 컨트롤러, 서비스와 같은 용어들을 이해하고 사용하는 것이 어려웠습니다. 하지만 모르는 것은 물어보거나 인터넷을 찾아보고 어떤 방식으로 작동하는 것인지 이해하고 난 이후에는 구현하고 싶은 화면이 있을 때 제가 어떻게 코드를 짜야 하는지, 무엇을 반환해야 하는지 알 수 있었습니다. 코드를 보면 개발자의 생각을 알 수 있기 때문에 아는 만큼 보인다'라는 말을 실감하며 프로그래밍에 대한 재미를 느꼈습니다. 
+셋째, 프로그래밍 실력 발전을 위해 꾸준히 도전하는 제 자신을 발견했다는 것입니다. 단순히 6개월 학원에서 가르쳐주는 내용만을 배우고자 하지 않았습니다. 학원에서 집까지 소요되는 왕복 2시간을 코딩과 관련된 블로그를 보거나 유튜브를 시청하면서 늘 새로운 배움을 찾는데 시간을 활용했고 학원이 끝난 뒤에도 집 근처에 있는 스터디 카페에 꼭 방문하여 그 날 배운 것들을 복습하고 복습하는 과정에서 구글링을 통해 새롭게 알게 된 또 다른 기능은 계속해서 제 것으로 만드는 과정을 6개월동안 가져왔습니다. 이런 습관과 코딩에 대한 흥미는 앞으로 회사생활을 하면서도 자발적으로 업무능력을 키우기 위해서 스스로가 노력하는데 도움이 될 것이라고 생각합니다.
+비록 전공자는 아니지만 개발자의 꿈을 가지고 이 업계에 계속해서 욕심이 생기는 이유는 코딩에 대한 열정과 도전정신, 그리고 재미 덕분이라고 생각합니다. 저는 한 사람 몫 그 이상을 해내는 개발자가 되는 것을 목표로 하고 있습니다. 앞으로도 코딩을 재미있게 하기 위해 그에 맞는 실력을 갖추도록 더욱 열심히 공부하고 꾸준히 도전할 것입니다. 
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
