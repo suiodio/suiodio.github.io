@@ -24,7 +24,7 @@ youtube_username: https://www.youtube.com/channel/UCU-0B_TalYDQ7asz1BeVMpg
 # Additional icon links
 additional_links:
 - title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+  icon: fa-solid fa-person (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
   url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
