@@ -9,11 +9,9 @@ version: 2
 name: 박재영
 title: 백엔드 신입 개발자
 email: jaeyou22@nate.com
-email_title: Email (Email title override)
-phone: Your phone number (optional)
-# phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
-# website_title: Web (Website title override)
+email_title: Email
+website: https://blog.naver.com/suiodio__
+website_title: Web
 
 # Dark Mode (true/false/never)
 darkmode: false
